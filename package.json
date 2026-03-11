@@ -1,0 +1,26 @@
+{
+  "name": "apartman-pouzdrany",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Filipoliko/apartmanpouzdrany#readme",
+  "bugs": {
+    "url": "https://github.com/Filipoliko/apartmanpouzdrany/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipoliko/apartmanpouzdrany.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "updateImages.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}
